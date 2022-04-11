@@ -11,7 +11,7 @@ export default class Necromancer extends Archetype {
     this.energyType = 'mana';
   }
 
-  public static createdArchetypesInstances(): number {
+  public static createdArchetypeInstances() {
     return Necromancer.count;
   }
 }

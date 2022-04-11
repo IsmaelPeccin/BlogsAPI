@@ -21,9 +21,9 @@ export default abstract class Archetype {
     return this._cost;
   }
   
-  public abstract get energyType() : EnergyType;
-
-  static createdArchetypeInstances():number {
+  static createdArchetypeInstances() {
     throw new Error('Not implemented');
   }
+
+  public abstract get energyType() : EnergyType;
 }

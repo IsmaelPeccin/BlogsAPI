@@ -11,7 +11,7 @@ export default class Warrior extends Archetype {
     this.energyType = 'stamina';
   }
 
-  public static createdArchetypesInstances(): number {
+  public static createdArchetypeInstances() {
     return Warrior.count;
   }
 } 
