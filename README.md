@@ -3,7 +3,6 @@
 
 ## Objetivo
 
----
 
 Este projeto foi elaborado durante o curso de Desenvolvimento Web da Trybe, no módulo de Back-end. O objetivo era desenvolver uma estrutura de jogos de interpretação de papeis,  conhecidos como jogos `RPG` (_Role Playing Game_), aplicando os princípios da arquitetura `SOLID` e os princípios de `POO`.
 
@@ -25,20 +24,16 @@ Para clonar e instalar as dependências basta seguir os seguintes passos:
 2. Instale as dependências: 
  - npm install
 
----
 
 ## Tecnologias Utilizadas 
 
----
 
 - NodeJs;
 - TypeScript;
 
----
 
 ## Contextualizando
 
----
 
 Para entender melhor como o projeto foi desenvolvido, é necessário contextualizar o universo em que se situa o `RPG` Trybers and Dragons. 
 
